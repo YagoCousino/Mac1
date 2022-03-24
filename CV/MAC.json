@@ -1,0 +1,303 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Test Yago ",
+      "surnames": "Cousiño",
+      "title": "BIg data and security lead architect",
+      "description": "hola hola",
+      "location": {
+        "notes": "Paris, Île-de-France, FR"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/yago-cousi%C3%B1o-13533261/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "neovim"
+      },
+      {
+        "topic": "First computer",
+        "fact": "Atari 1040 STF"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Orange Group"
+        },
+        "roles": [
+          {
+            "name": "Big Data Security Officer",
+            "startDate": "2015-01-01",
+            "challenges": [
+              {
+                "description": "*   Operational security for the main corporate big data platform\n*   Security guidelines for big data platforms\n*   Integration of privacy concerns into business data projects"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Cassandra",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Hadoop",
+                "type": "technology"
+              },
+              {
+                "name": "Saltstack",
+                "type": "technology"
+              },
+              {
+                "name": "apache-spark",
+                "type": "technology"
+              },
+              {
+                "name": "ssh",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "French Ministry of Budget"
+        },
+        "roles": [
+          {
+            "name": "Security programme manager",
+            "startDate": "2009-01-01",
+            "finishDate": "2012-01-31",
+            "challenges": [
+              {
+                "description": "Delivering security solutions, from requirements to production, for a financial gov projects."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "SAP",
+                "type": "technology"
+              },
+              {
+                "name": "Active DIrectory",
+                "type": "technology"
+              },
+              {
+                "name": "AIX",
+                "type": "technology"
+              },
+              {
+                "name": "LDAP",
+                "type": "technology"
+              },
+              {
+                "name": "rsa",
+                "type": "technology"
+              },
+              {
+                "name": "x509",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "French Ministry of Economy and Budget"
+        },
+        "roles": [
+          {
+            "name": "Chief Information Security Officer",
+            "startDate": "2012-02-01",
+            "finishDate": "2015-09-30",
+            "challenges": [
+              {
+                "description": "*   Lead of security hardening programme\n*   Intrusion detection\n*   Incident response\n*   Management of the network of security officers"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "web-application-firewall",
+                "type": "technology"
+              },
+              {
+                "name": "policy",
+                "type": "technology"
+              },
+              {
+                "name": "firewall",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "French Institute for Economic Studies and Statistics"
+        },
+        "roles": [
+          {
+            "name": "Software architect",
+            "startDate": "2004-09-01",
+            "finishDate": "2008-12-31",
+            "challenges": [
+              {
+                "description": "*   Build and deliver for a \"devops-like\" PHP-MySQL platform\n*   Dev methodology\n*   API"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "nsis",
+                "type": "technology"
+              },
+              {
+                "name": "cvs",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Top 10% at Stack Overflow answers",
+          "description": "This user is part of the top 10% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "fgbdfgdfgfd",
+        "startDate": "2000-02-01",
+        "institution": {
+          "name": "fgfdgdfgds",
+          "description": "dfgdfgdfgdfgds"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/yago-cousi%C3%B1o-13533261/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Hadoop",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
